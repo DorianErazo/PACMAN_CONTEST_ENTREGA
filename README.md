@@ -1,6 +1,6 @@
 # Team Information
 
-**Course:** _[ARTIFICIAL INTELLIGENCE]_
+**Course:** _[ARTIFICIAL INTELLIGENCE 2022 UPF]_
 
 **Semester:** FIRST TRIMESTER, 2022
 
